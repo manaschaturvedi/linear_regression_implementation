@@ -45,7 +45,7 @@ theta_0 = 0
 theta_1 = 4
 cost function: 70.0
 
-After Gradient Descent-
+After Gradient Descent:
 theta_0: -0.2709674247575545 
 theta_1: 2.0631089174216615 
 cost function: 0.03538502177709652
@@ -54,4 +54,5 @@ The final plot of our best fit line after finding the values of our parameters u
 ![alt text](https://github.com/manaschaturvedi/linear_regression_implementation/blob/master/plot_xy_10.png)
 
 Plotting the cost function wrt number of iterations in Gradient Descent to verify whether the cost function of our model decreases with each iteration:
+
 ![alt text](https://github.com/manaschaturvedi/linear_regression_implementation/blob/master/cost_plot.png)
